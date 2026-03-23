@@ -1,3 +1,3 @@
 # Github-demo <br>
 This is my first project <br>
-my name: Rajnish kumar
+my name: Rajnish kumar (cse)
